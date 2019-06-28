@@ -9,4 +9,5 @@ public interface ItemService {
 	void decreaseNumbers(List<Item> list);
 	//°æ±¾Ò»²âÊÔ³åÍ»
 	//°æ±¾¶ş²âÊÔ³åÍ»
+	//ç‰ˆæœ¬1æµ‹è¯•å†²çª
 }
