@@ -7,4 +7,6 @@ import com.tedu.sp01.pojo.Item;
 public interface ItemService {
 	List<Item> getItems(String orderId);
 	void decreaseNumbers(List<Item> list);
+	//°æ±¾Ò»²âÊÔ³åÍ»
+	//°æ±¾¶ş²âÊÔ³åÍ»
 }
